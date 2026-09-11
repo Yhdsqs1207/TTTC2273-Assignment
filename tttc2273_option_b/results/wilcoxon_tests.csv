@@ -1,5 +1,0 @@
-comparison,wilcoxon_W,p_value
-NSGA-II vs Untuned expert fuzzy,0.0,1.862645149230957e-09
-NSGA-II vs Random search,39.0,1.3966113328933716e-05
-NSGA-II vs Scalarised GA,44.0,2.6885420083999634e-05
-NSGA-II vs Polynomial ridge,0.0,1.862645149230957e-09
