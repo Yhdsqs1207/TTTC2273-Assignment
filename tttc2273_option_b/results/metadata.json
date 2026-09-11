@@ -1,0 +1,22 @@
+{
+  "dataset_n": 420,
+  "data_seed": 20260909,
+  "noise_sd_mg_L": 2.2,
+  "train_fraction": 0.7,
+  "benchmark_seeds": 30,
+  "population": 24,
+  "generations": 12,
+  "evaluation_budget_per_search_method": 312,
+  "scalarisation_lambda": 0.1,
+  "random_conflict_spearman_rho": -0.8977529438235956,
+  "random_conflict_spearman_p": 1.9977411630817394e-72,
+  "dense_accuracy_anchor_rmse": 2.9002554772046403,
+  "dense_accuracy_anchor_interpretability_cost": 36.80671339380997,
+  "reference_front_population": 48,
+  "reference_front_generations": 50,
+  "reference_knee_train_rmse": 4.312039987001113,
+  "reference_knee_interpretability_cost": 11.37957037714919,
+  "reference_knee_test_rmse": 4.666243805713136,
+  "reference_knee_active_rules": 11,
+  "reference_test_coverage": 1.0
+}

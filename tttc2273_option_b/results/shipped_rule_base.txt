@@ -1,0 +1,11 @@
+R01: IF raw-water turbidity is Low AND pH is Low THEN alum dose = 41.3 mg/L.
+R02: IF raw-water turbidity is Low AND pH is Medium THEN alum dose = 29.1 mg/L.
+R03: IF raw-water turbidity is Low AND pH is High THEN alum dose = 39.5 mg/L.
+R04: IF raw-water turbidity is Medium AND pH is Low THEN alum dose = 56.9 mg/L.
+R05: IF raw-water turbidity is Medium AND pH is Medium THEN alum dose = 43.5 mg/L.
+R06: IF raw-water turbidity is Medium AND pH is High THEN alum dose = 54.7 mg/L.
+R07: IF raw-water turbidity is High AND pH is Low THEN alum dose = 67.5 mg/L.
+R08: IF raw-water turbidity is High AND pH is Medium THEN alum dose = 57.1 mg/L.
+R09: IF raw-water turbidity is High AND pH is High THEN alum dose = 65.7 mg/L.
+R10: IF raw-water turbidity is Low AND 12-hour rainfall is Low THEN alum dose = 27.1 mg/L.
+R15: IF raw-water turbidity is Medium AND 12-hour rainfall is High THEN alum dose = 57.0 mg/L.
